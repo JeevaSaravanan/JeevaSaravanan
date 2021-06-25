@@ -1,4 +1,4 @@
-![](./Jeeva Banner.png)
+![] (https://github.com/JeevaSaravanan/JeevaSaravanan/blob/main/Jeeva%20Banner.png)
 
 <h2> Hi 👋</h2>
 
