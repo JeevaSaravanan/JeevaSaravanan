@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JeevaSaravanan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+(./Jeeva Banner.png)
+
+<h2> Hi 👋</h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JeevaSaravanan.JeevaSaravanan)](https://github.com/JeevaSaravanan)
 
 <!---
 JeevaSaravanan/JeevaSaravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
