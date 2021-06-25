@@ -1,4 +1,4 @@
-(./Jeeva Banner.png)
+![](./Jeeva Banner.png)
 
 <h2> Hi 👋</h2>
 
