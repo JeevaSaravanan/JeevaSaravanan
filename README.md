@@ -1,7 +1,7 @@
 ![](./banner.png)
 
 
-<div  style="float:right">
+<div  align="right">
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JeevaSaravanan.JeevaSaravanan)](https://github.com/JeevaSaravanan) [![GitHub followers](https://img.shields.io/github/followers/JeevaSaravanan.svg?style=social&label=Follow&maxAge=259200)](https://github.com/JeevaSaravanan?tab=followers)
 
