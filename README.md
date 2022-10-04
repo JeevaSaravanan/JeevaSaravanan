@@ -29,7 +29,7 @@ You can find me with books sometimes. I love to read coming of age fiction not b
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaSaravanan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaSaravanan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
