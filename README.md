@@ -6,6 +6,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JeevaSaravanan.JeevaSaravanan)](https://github.com/JeevaSaravanan) [![GitHub followers](https://img.shields.io/github/followers/JeevaSaravanan.svg?style=social&label=Follow&maxAge=259200)](https://github.com/JeevaSaravanan?tab=followers)
 
 </div>
+
 <h3> Hi 👋</h3>
 
 <i>I'm Jeeva, a Passionate Software Engineer. I'm in pursuit of expanding my knowledge and open to exploring opportunities along my way. I prefer to keep learning, continue to challenge myself, and do interesting things that matter.</i>
@@ -20,14 +21,11 @@
 * Learning: Machine Learning, AI 🤖 ...
   <i>Would love to collobrate and receive suggestion.</i>
 
-
 <h3>In my spare time 👀</h3>
 
 You can find me with books sometimes. I love to read coming of age fiction not big fan of romance though. In my spare time I watch sitcoms and do some sketches.
 
 <b>Favourite Book:</b> <i> The Kite Runner by Khaled Hosseini.</i> 
-
-<br>
 
 <h3> My Stats 📊</h3>
 
@@ -35,6 +33,8 @@ You can find me with books sometimes. I love to read coming of age fiction not b
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaSaravanan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<br>
 
 
 <div align="center">
