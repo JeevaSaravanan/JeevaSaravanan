@@ -29,6 +29,8 @@ You can find me with books sometimes. I love to read coming of age fiction not b
 
 <br>
 
+<h3> My Stats 📊</h3>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeevaSaravanan)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaSaravanan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
