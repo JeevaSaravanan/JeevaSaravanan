@@ -28,7 +28,7 @@ You can find me with books sometimes. I love to read coming of age fiction not b
 <b>Favourite Book:</b> <i> The Kite Runner by Khaled Hosseini.</i> 
 
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=light&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeevaSaravanan&theme=light&background=111111)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevaSaravanan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
