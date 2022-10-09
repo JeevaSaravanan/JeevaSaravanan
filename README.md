@@ -25,7 +25,8 @@
 
 You can find me with books sometimes. I love to read coming of age fiction not big fan of romance though. In my spare time I watch sitcoms and do some sketches.
 
-<b>Favourite Book:</b> <i> The Kite Runner by Khaled Hosseini.</i> 
+<b>Favourite Book:</b> 
+<ul> <li><i> The Kite Runner by Khaled Hosseini.</i></li> <li><i> Tuesday with Morrie by Mitch Albom.</i></li></ul>
 
 <h3> My Stats 📊</h3>
 
